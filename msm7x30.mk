@@ -108,7 +108,6 @@ PRODUCT_COPY_FILES += \
 # Common properties
 PRODUCT_PROPERTY_OVERRIDES += \
 	ro.sf.lcd_density=240 \
-	ro.config.low_ram=true \
 	ro.opengles.version=131072 \
 	persist.sys.usb.config=mtp \
 	wifi.interface=wlan0 \
